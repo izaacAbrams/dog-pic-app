@@ -17,6 +17,9 @@ label {
 .dog-pic {
     height: 400px;
 }
+.dogs-display {
+    text-align: center;
+}
 .dog-num-form {
     padding: 20px;
     text-align: center;
