@@ -1,0 +1,41 @@
+body {
+    background-color: #232323;
+    margin: 0;
+    padding: 0;
+    color: white;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hidden {
+    display: none;
+}
+.dog-pic {
+    height: 400px;
+}
+
+.dog-num-form {
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    font-size: 22px;
+}
+
+.num-input {
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.submit-btn {
+    margin: 10px;
+    border: 2px solid white;
+    background-color: #232323;
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
